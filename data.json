@@ -1,0 +1,14 @@
+{
+  "mod_id": "6gDfrm1m1fgAqV",
+  "name": "More_Inventory_Slots",
+  "version": "0.0.1",
+  "sml_version": "0.1.2",
+  "description": "Simple Mod for additional Inventory Slots",
+  "authors": ["Wombat"],
+  "objects": [
+    {
+      "type": "pak",
+      "path": "More_Inventory_Slots_p.pak"
+    }
+  ]
+}
